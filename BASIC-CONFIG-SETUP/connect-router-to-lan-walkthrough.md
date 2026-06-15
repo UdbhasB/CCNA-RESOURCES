@@ -210,3 +210,4 @@ Both should succeed. *(The switches in this lab aren't configured, so you can't 
 5. **Save to NVRAM**, or your work vanishes on the next reboot.
 
 Master this one repeatable interface-configuration pattern and you've learned the foundation that nearly every later router lab builds on.
+Reference: https://itexamanswers.net/6-4-3-3-packet-tracer-connect-a-router-to-a-lan-answers.html
