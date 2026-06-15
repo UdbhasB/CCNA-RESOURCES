@@ -8,6 +8,9 @@
 
 A router's whole job is to move traffic *between* networks. In this lab you have two routers (R1 and R2) joined by a **WAN link** (the serial connection), and each router has two **LANs** hanging off its Ethernet ports.
 
+<img width="955" height="383" alt="image" src="https://github.com/user-attachments/assets/b65b79d9-8db4-4514-be67-2e00c5785378" />
+
+
 ```
    PC1, PC2 LANs            WAN link              LANs PC3, PC4
    192.168.10.0  ──┐                                 ┌── 10.1.1.0
